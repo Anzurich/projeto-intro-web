@@ -22,14 +22,14 @@ console.log(animalDomestico);
 console.log(animal1.toUpperCase());
 console.log("Possui "+filhotes1+" filhotes");
 console.log("É animal doméstico? "+animalDomestico1);
-console.log("Qual é a alimentação deste animal? "+alimentacao1+"\n");
+console.log("Qual é a alimentação deste animal? "+alimentacao1);
 
 console.log(animal2.toUpperCase());
 console.log("Possui "+filhotes2+" filhotes");
 console.log("É animal doméstico? "+animalDomestico2);
-console.log("Qual é a alimentação deste animal? "+alimentacao2+"\n");
+console.log("Qual é a alimentação deste animal? "+alimentacao2);
 
 console.log(animal3.toUpperCase());
 console.log("Possui "+filhotes3+" filhotes");
 console.log("É animal doméstico? "+animalDomestico3);
-console.log("Qual é a alimentação deste animal? "+alimentacao3+"\n");
+console.log("Qual é a alimentação deste animal? "+alimentacao3);
